@@ -1,7 +1,7 @@
 [
 	{
 		"columnNumber": 0,
-                "era": "Cryptic era",
+                "era": "Opened era",
                 "techCost": 20,
 		"buildingCost": 40,
 		"wonderCost": 100,
@@ -15,7 +15,41 @@
         },
 	{
 		"columnNumber": 1,
-                "era": "Cryptic era",
+                "era": "Opened era",
+                "techCost": 40,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Securing Telecommunications",
+				"row": 2,
+				"prerequisites": ["Third Test of Magnetic Distortion"]
+			},
+                        {
+                                "name": "Async Surveyor Team",
+				"row": 6,
+				"prerequisites": ["Third Test of Magnetic Distortion"]
+                        },
+                        {
+                                "name": "Complex Electromagnetics",
+				"row": 4,
+				"prerequisites": ["Third Test of Magnetic Distortion"]
+                        },
+                        {
+                                "name": "Null Zones",
+				"row": 8,
+				"prerequisites": ["Third Test of Magnetic Distortion"]
+                        },
+                        {
+                                "name": "Complete Unified field　Theory",
+				"row": 10,
+				"prerequisites": ["Third Test of Magnetic Distortion"]
+                        }
+		]
+	},
+	{
+		"columnNumber": 1,
+                "era": "Opened era",
                 "techCost": 40,
 		"buildingCost": 40,
 		"wonderCost": 100,
@@ -46,5 +80,5 @@
 				"prerequisites": ["Third Test of Magnetic Distortion"]
                         }
 		]
-	}
+	},
 ]
