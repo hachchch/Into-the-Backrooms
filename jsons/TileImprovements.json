@@ -10,6 +10,12 @@
 		]
         },
 	{
+		"name": "Motion Sensor",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Observer Network",
+		"uniques": ["Unit on this tiles will get +1 Sight"],
+	},
+	{
 		"name": "Industrial Complex",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrial Planning",
