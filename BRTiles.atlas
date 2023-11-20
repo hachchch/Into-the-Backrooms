@@ -1,1 +1,40 @@
-
+BRTiles.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Grassland
+  rotate: false
+  xy: 596, 1208
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle
+  rotate: false
+  xy: 546, 1208
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Hill
+  rotate: false
+  xy: 646, 1198
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Ice
+  rotate: false
+  xy: 646, 1248
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Forest
+  rotate: false
+  xy: 596, 1248
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
