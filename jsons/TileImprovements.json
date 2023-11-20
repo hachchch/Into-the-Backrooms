@@ -8,5 +8,10 @@
 			{"text":"Marks the center of a city"},
 			{"text":"Appearance changes with the technological era of the owning civilization"}
 		]
-        }
+        },
+	{
+		"name": "Pump",
+		"turnsToBuild": 7,
+		"uniques": ["Can only be built to improve a resource"]
+	},
 ]
