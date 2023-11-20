@@ -36,7 +36,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Explorer Scientist",
+		"name": "Explorer",
 		"unitType": "Scientist",
 		"movement": 2,
 		"strength": 8,
@@ -48,17 +48,19 @@
 		]
 	}
 	{
-		"name": "Async Guardsman",
+		"name": "Async Security",
+		"requiredTech": "Async Surveyor Team",
 		"unitType": "Scientist",
 		"movement": 2,
 		"strength": 16,
 		"cost": 50,
 		"obsoleteTech": "Mega Threshold",
-		"uniques": ["Never appears as a Barbarian unit"],
-		"attackSound": "nonmetalhit"
+		"uniques": ["[+50]% Strength <when attacking>","Never appears as a Barbarian unit"],
+		"attackSound": "shot"
 	},
 	{
 		"name": "Async Explorer",
+		"requiredTech": "Async Surveyor Team",
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 8,
@@ -66,5 +68,38 @@
 		"obsoleteTech": "Mega Threshold",
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "SAC Infantry",
+		"requiredTech": "Government Funding",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 32,
+		"cost": 85,
+		"obsoleteTech": "Mega Threshold",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Tank",
+		"requiredTech": "Mega Threshold",
+		"unitType": "Armored",
+		"movement": 3,
+		"strength": 32,
+		"cost": 125,
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Anti-Tank Gun",
+		"requiredTech": "Mega Threshold",
+		"unitType": "Armored",
+		"movement": 2,
+		"strength": 24,
+		"range": 3,
+		"rangedStrength": 32,
+		"cost": 125,
+		"uniques": ["[+60]% Strength <vs [Armored] units>","Never appears as a Barbarian unit"],
+		"attackSound": "shot"
 	}
 ]
