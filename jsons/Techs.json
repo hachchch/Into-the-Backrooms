@@ -135,7 +135,7 @@
 			{
 				"name": "Sailing Venice",
 				"row": 1,
-				"prerequisites": ["Observer Network"]
+				"prerequisites": ["Observer Network","Urban Planning"]
 			},
 			{
 				"name": "Backroom-Biology",
