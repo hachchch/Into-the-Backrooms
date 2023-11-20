@@ -1,22 +1,22 @@
 [
         {
                 "name": "Entity",
-                "uniques": ["May travel on Water tiles without embarking <for [{non-[Water]}] units> <hidden from users>"],
+                "uniques": ["May travel on Water tiles without embarking <hidden from users>"],
                 "movementType": "Land"
         },
         {
                 "name": "Civilian",
-                "uniques": ["May travel on Water tiles without embarking <for [{non-[Water]}] units> <hidden from users>"],
+                "uniques": ["May travel on Water tiles without embarking <hidden from users>"],
                 "movementType": "Land"
         },
         {
                 "name": "Scout",
-                "uniques": ["May travel on Water tiles without embarking <for [{non-[Water]}] units> <hidden from users>"],
+                "uniques": ["May travel on Water tiles without embarking <hidden from users>"],
                 "movementType": "Land"
         },
         {
                 "name": "Scientist",
-                "uniques": ["May travel on Water tiles without embarking <for [{non-[Water]}] units> <hidden from users>"],
+                "uniques": ["May travel on Water tiles without embarking <hidden from users>"],
                 "movementType": "Land"
         }
 ]
