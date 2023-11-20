@@ -3,6 +3,8 @@
                 "name": "City center",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Ensures a minimum tile yield of [+2 Food, +1 Production]",
+			"[+2 Food, +1 Production] <after discovering [Threshold]>",
+			"[+2 Food, +1 Production] <after discovering [Mega Threshold]>",
             "Unpillagable", "Irremovable", "Unbuildable", "Excluded from map editor"],
         "civilopediaText": [
 			{"text":"Marks the center of a city"},
