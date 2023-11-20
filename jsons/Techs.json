@@ -89,6 +89,11 @@
 				"prerequisites": ["Observation Settlement","Seed of Anxiety"]
 			},
 			{
+				"name": "Government Funding",
+				"row": 2,
+				"prerequisites": ["Observation Settlement","Threshold"]
+			},
+			{
 				"name": "Urban Planning",
 				"row": 6,
 				"prerequisites": ["Backroom-Geometry","Threshold","Seed of Anxiety"]
@@ -124,12 +129,12 @@
 		"techs": [
 			{
 				"name": "Anti-Bacteria Armaments",
-				"row": 1,
-				"prerequisites": ["Observer Network"]
+				"row": 2,
+				"prerequisites": ["Observer Network","Government Funding"]
 			},
 			{
 				"name": "Sailing Venice",
-				"row": 2,
+				"row": 1,
 				"prerequisites": ["Observer Network"]
 			},
 			{
