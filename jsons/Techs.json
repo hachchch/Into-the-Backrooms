@@ -176,7 +176,8 @@
 			{
 				"name": "Gravitation fieldmagnetics",
 				"row": 9,
-				"prerequisites": ["Unreadable Magnetosphere","Timeline Error"]
+				"prerequisites": ["Unreadable Magnetosphere","Timeline Error"],
+				"uniques": ["[200]% Stregth <vs [Entity] units> <for [Async Magnetowave Blaster] units>"]
 			},
 		]
 	}
