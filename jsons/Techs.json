@@ -77,7 +77,7 @@
 		]
 	},
 	{
-		"columnNumber": 2,
+		"columnNumber": 3,
                 "era": "Investment era",
                 "techCost": 40,
 		"buildingCost": 40,
@@ -85,11 +85,86 @@
 		"techs": [
 			{
 				"name": "Observer Network",
-				"row": 5,
+				"row": 4,
 				"prerequisites": ["Observation Settlement","Seed of Anxiety"]
 			},
 			{
-				"name": "",
+				"name": "Urban Planning",
+				"row": 6,
+				"prerequisites": ["Backroom-Geometry","Threshold","Seed of Anxiety"]
+			},
+			{
+				"name": "Storage Planning",
+				"row": 7,
+				"prerequisites": ["Backroom-Geometry","Threshold"]
+			},
+			{
+				"name": "Industrial Planning",
+				"row": 8,
+				"prerequisites": ["Backroom-Geometry","Threshold"]
+			},
+			{
+				"name": "Research Facility",
+				"row": 11,
+				"prerequisites": ["Backroom-Geometry"]
+			},
+			{
+				"name": "Resource Investigation",
+				"row": 10,
+				"prerequisites": ["Backroom-Geometry"]
+			}
+		]
+	},
+	{
+		"columnNumber": 4,
+                "era": "Investment era",
+                "techCost": 40,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Anti-Bacteria Armaments",
+				"row": 1,
+				"prerequisites": ["Observer Network"]
+			},
+			{
+				"name": "Sailing Venice",
+				"row": 2,
+				"prerequisites": ["Observer Network"]
+			},
+			{
+				"name": "Backroom-Biology",
+				"row": 4,
+				"prerequisites": ["Observer Network"]
+			},
+			{
+				"name": "Timeline Error",
+				"row": 10,
+				"prerequisites": ["Research Facility"]
+			},
+			{
+				"name": "Unreadable Magnetosphere",
+				"row": 9,
+				"prerequisites": ["Research Facility","Resource Investigation"]
+			}
+		]
+	},
+	{
+		"columnNumber": 5,
+                "era": "Fronteer era",
+                "techCost": 40,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Mega Threshold",
+				"row": 7,
+				"prerequisites": ["Urban Planning","Storage Planning","Industrial Planning"]
+			},
+			{
+				"name": "Gravitation fieldmagnetics",
+				"row": 9,
+				"prerequisites": ["Unreadable Magnetosphere","Timeline Error"]
 			},
 		]
 	}
