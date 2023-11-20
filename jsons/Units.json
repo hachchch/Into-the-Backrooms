@@ -39,8 +39,22 @@
 	}
 	{
 		"name": "Async Guardsman",
+		"unitType": "Scientist",
+		"movement": 2,
+		"strength": 16,
+		"cost": 50,
+		"obsoleteTech": "Mega Threshold",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Async Explorer",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 8,
+		"cost": 25,
+		"obsoleteTech": "Mega Threshold",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit"
 	},
 ]
