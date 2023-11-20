@@ -91,4 +91,10 @@
 		"turnsToBuild": 7,
 		"uniques": ["Can only be built to improve a resource"]
 	},
+	{
+		"name": "Barbarian encampment",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable", "Unbuildable", "Excluded from map editor"],
+        "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
+	}
 ]
