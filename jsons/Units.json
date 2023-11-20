@@ -1,4 +1,13 @@
 [
+	// Entity
+	{
+		"name": "Bacteria",
+		"unitType": "Entity",
+		"strength": 66,
+		"movement": 3,
+		"uniques": ["Can only attack [{non-[City]}] units"],
+	},
+	// General
         {
                 "name": "Worker",
 		"unitType": "Civilian",
@@ -56,5 +65,5 @@
 		"obsoleteTech": "Mega Threshold",
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
-	},
+	}
 ]
