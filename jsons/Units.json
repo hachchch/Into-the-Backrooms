@@ -99,6 +99,19 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "SAC Machinegun",
+		"requiredTech": "Government Funding",
+		"unitType": "Infantry",
+		"range": 1,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 85,
+		"obsoleteTech": "Mega Threshold",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Tank",
 		"requiredTech": "Mega Threshold",
 		"unitType": "Armored",
