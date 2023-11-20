@@ -43,7 +43,8 @@
                         {
                                 "name": "Recovering Unified field Theory",
 				"row": 10,
-				"prerequisites": ["Sixth Test of L-P Magnetic Distortion"]
+				"prerequisites": ["Sixth Test of L-P Magnetic Distortion"],
+				"uniques": ["Enables conversion of city production to [Science]"]
                         }
 		]
 	},
@@ -111,7 +112,8 @@
 			{
 				"name": "Research Facility",
 				"row": 11,
-				"prerequisites": ["Backroom-Geometry"]
+				"prerequisites": ["Backroom-Geometry"],
+				"uniques": ["Enables Research agreements"]
 			},
 			{
 				"name": "Resource Investigation",
