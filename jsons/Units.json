@@ -101,5 +101,21 @@
 		"cost": 125,
 		"uniques": ["[+60]% Strength <vs [Armored] units>","Never appears as a Barbarian unit"],
 		"attackSound": "shot"
-	}
+	},
+	{
+		"name": "Async Boat",
+		"requiredTech": "Sailing Venice",
+		"unitType": "Boat",
+		"movement": 3,
+		"strength": 24,
+		"cost": 60,
+	},
+	{
+		"name": "Armored Boat",
+		"requiredTech": "Backroom-Navigation",
+		"unitType": "Boat",
+		"movement": 4,
+		"strength": 50,
+		"cost": 125,
+	},
 ]
