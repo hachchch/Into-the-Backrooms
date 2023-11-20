@@ -31,7 +31,7 @@ TileSets/FantasyHex/Tiles/Coast+Ice
   orig: 32, 38
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Grassland+Forest
+TileSets/FantasyHex/Tiles/ForestGrassland
   rotate: false
   xy: 596, 1248
   size: 32, 38
