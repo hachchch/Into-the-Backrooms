@@ -10,6 +10,26 @@
 		]
         },
 	{
+		"name": "Industrial Complex",
+		"production": 1,
+	},
+	{
+		"name": "Agriculture Facility",
+		"food": 1,
+	},
+	{
+		"name": "Plastic Waste Piles",
+		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [50]%"]
+	},
+	{
+		"name": "Mass Storage",
+		"gold": 1,
+	},
+	{
+		"name": "Residencial",
+		"culture": 1,
+	},
+	{
 		"name": "Pump",
 		"turnsToBuild": 7,
 		"uniques": ["Can only be built to improve a resource"]
