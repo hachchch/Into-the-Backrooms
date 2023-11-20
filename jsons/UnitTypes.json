@@ -6,17 +6,17 @@
         },
         {
                 "name": "Civilian",
-                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>","[-1] Movement <in [Water] tiles>"],
+                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>"],
                 "movementType": "Land"
         },
         {
                 "name": "Scout",
-                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>","[-1] Movement <in [Water] tiles>"],
+                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>"],
                 "movementType": "Land"
         },
         {
                 "name": "Scientist",
-                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>","[-1] Movement <in [Water] tiles>"],
+                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>"],
                 "movementType": "Land"
         }
 ]
