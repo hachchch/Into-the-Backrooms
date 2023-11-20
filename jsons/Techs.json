@@ -167,6 +167,11 @@
 				"prerequisites": ["Urban Planning","Storage Planning","Industrial Planning"]
 			},
 			{
+				"name": "Backroom-Navigation",
+				"row": 2,
+				"prerequisites": ["Sailing Venice","Anti-Bacteria Armaments"]
+			},
+			{
 				"name": "Gravitation fieldmagnetics",
 				"row": 9,
 				"prerequisites": ["Unreadable Magnetosphere","Timeline Error"]
