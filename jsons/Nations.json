@@ -3,7 +3,7 @@
                 "name": "United States",
                 "leaderName": "George Washington",
 		"adjective": ["American"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Time",
 
         "startIntroPart1": "",
         "startIntroPart2": "",
@@ -33,7 +33,7 @@
                 "leaderName": "Catherine",
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Time",
 
 
         "startIntroPart1": "",
