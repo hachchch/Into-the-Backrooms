@@ -9,5 +9,12 @@
 		"cityStrength": 2,
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
-        }
+        },
+	{
+		"name": "Observation Building",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"cost": 100,
+		"requiredTech": "Observation Settlement",
+	},
 ]
