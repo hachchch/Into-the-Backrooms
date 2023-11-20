@@ -174,8 +174,6 @@
 	{
 		"name": "Forest",
 		"type": "TerrainFeature",
-		"production": 1,
-		"food": 1,
 		"movementCost": 2,
 		"overrideStats": true,
 		"unbuildable": true,
@@ -198,7 +196,6 @@
 	{
 		"name": "Jungle",
 		"type": "TerrainFeature",
-		"food": 2,
 		"movementCost": 2,
 		"overrideStats": true,
 		"unbuildable": true,
