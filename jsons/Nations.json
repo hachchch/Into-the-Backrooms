@@ -18,8 +18,6 @@
 
         "outerColor": [ 28,51,119],
         "innerColor": [255,255,255],
-
-        "favoredReligion": "Christianity",
 		"uniqueName": "Manifest Destiny",
 		"uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
@@ -48,9 +46,8 @@
 		"neutralHello": "Hello!",
 		"hateHello": "What do you need?!",
 		"tradeRequest": "How would you like it if I propose this kind of exchange?",
-		"outerColor": [239, 180, 0],
-		"innerColor": [0, 0, 0],
-		"favoredReligion": "Christianity",
+		"outerColor": [105, 0, 0],
+		"innerColor": [255, 255, 0],
 		"uniqueName": "Colonization New Siberia",
 		"uniques": ["[+50]% Production when constructing [Settler] units [in all cities]"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
