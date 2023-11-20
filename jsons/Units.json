@@ -37,4 +37,10 @@
 			{"text": "This is your basic."}
 		]
 	}
+	{
+		"name": "Async Guardsman",
+	},
+	{
+		"name": "Async Explorer",
+	},
 ]
