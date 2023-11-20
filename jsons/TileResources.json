@@ -1,0 +1,12 @@
+[
+        {
+                "name": "Armond Water",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland"],
+		"food": 1,
+		"improvement": "Pump",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>",
+					"Generated on every [22] tiles <in [Featureless] [Plains] tiles>"]
+        }
+]
