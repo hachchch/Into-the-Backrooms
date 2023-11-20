@@ -22,8 +22,7 @@
 		"strength": 5,
 		"cost": 25,
 		"obsoleteTech": "Mega Threshold",
-		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost"],
+		"uniques": ["Ignore terrain cost","Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
 	{
