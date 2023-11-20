@@ -1,11 +1,29 @@
 [
 	// Entity
 	{
-		"name": "Bacteria",
+		"name": "Bacteria lv1",
+		"uniqueTo": "Barbarians",
+		"unitType": "Entity",
+		"strength": 33,
+		"movement": 2,
+		"uniques": ["Can only attack [All] units"],
+	},
+	{
+		"name": "Bacteria lv2",
 		"uniqueTo": "Barbarians",
 		"unitType": "Entity",
 		"strength": 66,
 		"movement": 3,
+		"requiredTech": "Threshold",
+		"uniques": ["Can only attack [All] units"],
+	},
+	{
+		"name": "Bacteria lv3",
+		"uniqueTo": "Barbarians",
+		"unitType": "Entity",
+		"strength": 100,
+		"movement": 3,
+		"requiredTech": "Anti-Bacteria Armaments",
 		"uniques": ["Can only attack [All] units"],
 	},
 	// General
