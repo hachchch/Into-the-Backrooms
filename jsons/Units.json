@@ -93,7 +93,7 @@
 	{
 		"name": "Anti-Tank Gun",
 		"requiredTech": "Mega Threshold",
-		"unitType": "Armored",
+		"unitType": "Infantry",
 		"movement": 2,
 		"strength": 24,
 		"range": 3,
