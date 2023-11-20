@@ -7,7 +7,7 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Third Test of Magnetic Distortion",
+				"name": "Sixth Test of L-P Magnetic Distortion",
 				"row": 6,
 				"uniques": ["Starting tech"],
 			}
@@ -23,27 +23,27 @@
 			{
 				"name": "Securing Telecommunications",
 				"row": 2,
-				"prerequisites": ["Third Test of Magnetic Distortion"]
+				"prerequisites": ["Sixth Test of L-P Magnetic Distortion"]
 			},
                         {
                                 "name": "Async Surveyor Team",
 				"row": 6,
-				"prerequisites": ["Third Test of Magnetic Distortion"]
+				"prerequisites": ["Sixth Test of L-P Magnetic Distortion"]
                         },
                         {
                                 "name": "Complex Electromagnetics",
 				"row": 4,
-				"prerequisites": ["Third Test of Magnetic Distortion"]
+				"prerequisites": ["Sixth Test of L-P Magnetic Distortion"]
                         },
                         {
                                 "name": "Null Zones",
 				"row": 8,
-				"prerequisites": ["Third Test of Magnetic Distortion"]
+				"prerequisites": ["Sixth Test of L-P Magnetic Distortion"]
                         },
                         {
-                                "name": "Complete Unified field　Theory",
+                                "name": "Recovering Unified field Theory",
 				"row": 10,
-				"prerequisites": ["Third Test of Magnetic Distortion"]
+				"prerequisites": ["Sixth Test of L-P Magnetic Distortion"]
                         }
 		]
 	},
@@ -55,29 +55,24 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Securing Telecommunications",
-				"row": 2,
-				"prerequisites": ["Third Test of Magnetic Distortion"]
+				"name": "Observation Settlement",
+				"row": 3,
+				"prerequisites": ["Securing Telecommunications","Async Surveyor Team"]
 			},
                         {
-                                "name": "Async Surveyor Team",
+                                "name": "Seed of Anxiety",
 				"row": 6,
-				"prerequisites": ["Third Test of Magnetic Distortion"]
+				"prerequisites": ["Async Surveyor Team"]
                         },
                         {
-                                "name": "Complex Electromagnetics",
+                                "name": "Threshold",
 				"row": 4,
-				"prerequisites": ["Third Test of Magnetic Distortion"]
+				"prerequisites": ["Complex Electromagnetics","Async Surveyor Team"]
                         },
                         {
-                                "name": "Null Zones",
-				"row": 8,
-				"prerequisites": ["Third Test of Magnetic Distortion"]
-                        },
-                        {
-                                "name": "Null Zones",
-				"row": 10,
-				"prerequisites": ["Third Test of Magnetic Distortion"]
+                                "name": "Backroom-Geometry",
+				"row": 9,
+				"prerequisites": ["Recovering Unified field Theory","Null Zones"]
                         }
 		]
 	},
