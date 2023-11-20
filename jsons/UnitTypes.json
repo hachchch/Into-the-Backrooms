@@ -1,5 +1,9 @@
 [
         {
+                "name": "Entity",
+                "movementType": "Land"
+        },
+        {
                 "name": "Civilian",
                 "movementType": "Land"
         },
