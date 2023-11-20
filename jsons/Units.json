@@ -2,6 +2,7 @@
 	// Entity
 	{
 		"name": "Bacteria",
+		"uniqueTo": "Barbarians",
 		"unitType": "Entity",
 		"strength": 66,
 		"movement": 3,
