@@ -9,7 +9,8 @@
 			{
 				"name": "Sixth Test of L-P Magnetic Distortion",
 				"row": 6,
-				"uniques": ["Starting tech"],
+				"uniques": ["Starting tech",
+				"May travel on Water tiles without embarking <for [{non-[Water]}] units> <hidden from users>"],
 			}
                 ]
         },
