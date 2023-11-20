@@ -25,6 +25,10 @@
                 "movementType": "Land"
         },
         {
+                "name": "Boat",
+                "movementType": "Water",
+        },
+        {
                 "name": "Armored",
                 "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>"],
                 "movementType": "Land"
