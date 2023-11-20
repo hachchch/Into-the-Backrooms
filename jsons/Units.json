@@ -118,4 +118,16 @@
 		"strength": 50,
 		"cost": 125,
 	},
+	{
+		"name": "Async Magnetowave Blaster",
+		"requiredTech": "Anti-Bacteria Armaments",
+		"unitType": "Scientist",
+		"movement": 2,
+		"strength": 24,
+		"range": 2,
+		"rangedStrength": 24,
+		"cost": 130,
+		"uniques": ["Must set up to ranged attack","[+300]% Strength <vs [Entity] units>","Never appears as a Barbarian unit"],
+		"attackSound": "cannon"
+	},
 ]
