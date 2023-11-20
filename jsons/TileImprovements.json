@@ -14,6 +14,10 @@
 		"production": 1,
 	},
 	{
+		"name": "Pool Resort",
+		"happiness": 1,
+	},
+	{
 		"name": "Agriculture Facility",
 		"food": 1,
 	},
