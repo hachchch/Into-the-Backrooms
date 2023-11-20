@@ -109,7 +109,7 @@
 		"cost": 85,
 		"obsoleteTech": "Mega Threshold",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"attackSound": "shot"
+		"attackSound": "machinegun"
 	},
 	{
 		"name": "Tank",
@@ -119,7 +119,7 @@
 		"strength": 32,
 		"cost": 125,
 		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
-		"attackSound": "shot"
+		"attackSound": "tankshot"
 	},
 	{
 		"name": "Anti-Tank Gun",
@@ -131,7 +131,7 @@
 		"rangedStrength": 32,
 		"cost": 125,
 		"uniques": ["[+60]% Strength <vs [Armored] units>","Never appears as a Barbarian unit"],
-		"attackSound": "shot"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Async Boat",
@@ -140,6 +140,7 @@
 		"movement": 3,
 		"strength": 24,
 		"cost": 60,
+		"attackSound": "shot"
 	},
 	{
 		"name": "Armored Boat",
@@ -148,6 +149,7 @@
 		"movement": 4,
 		"strength": 50,
 		"cost": 125,
+		"attackSound": "shipguns"
 	},
 	{
 		"name": "Async Magnetowave Blaster",
@@ -159,6 +161,6 @@
 		"rangedStrength": 24,
 		"cost": 130,
 		"uniques": ["Must set up to ranged attack","[+300]% Strength <vs [Entity] units>","Never appears as a Barbarian unit"],
-		"attackSound": "cannon"
+		"attackSound": "gdrAttack"
 	},
 ]
