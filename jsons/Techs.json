@@ -48,7 +48,7 @@
 		]
 	},
 	{
-		"columnNumber": 1,
+		"columnNumber": 2,
                 "era": "Opened era",
                 "techCost": 40,
 		"buildingCost": 40,
@@ -76,4 +76,21 @@
                         }
 		]
 	},
+	{
+		"columnNumber": 2,
+                "era": "Investment era",
+                "techCost": 40,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Observer Network",
+				"row": 5,
+				"prerequisites": ["Observation Settlement","Seed of Anxiety"]
+			},
+			{
+				"name": "",
+			},
+		]
+	}
 ]
