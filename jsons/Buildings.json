@@ -17,4 +17,17 @@
 		"cost": 100,
 		"requiredTech": "Observation Settlement",
 	},
+	{
+		"name": "Server Farm",
+		"gold": 3,
+		"production": 1,
+		"cost": 60,
+		"requiredTech": "Securing Telecommunications",
+	},
+	{
+		"name": "Chemical Power Generator",
+		"production": 3,
+		"cost": 60,
+		"requiredTech": "Complex Electromagnetics",
+	}
 ]
