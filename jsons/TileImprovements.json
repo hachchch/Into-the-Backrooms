@@ -11,30 +11,43 @@
         },
 	{
 		"name": "Industrial Complex",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Industrial Planning",
 		"production": 1,
 	},
 	{
 		"name": "Pool Resort",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"techRequired": "Urban Planning",
 		"happiness": 1,
 	},
 	{
 		"name": "Agriculture Facility",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Urban Planning",
 		"food": 1,
 	},
 	{
 		"name": "Plastic Waste Piles",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Storage Planning",
 		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [50]%"]
 	},
 	{
 		"name": "Mass Storage",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Storage Planning",
 		"gold": 1,
 	},
 	{
 		"name": "Residencial",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"techRequired": "Urban Planning",
 		"culture": 1,
 	},
 	{
 		"name": "Pump",
+		"techRequired": "Resource Investigation",
 		"turnsToBuild": 7,
 		"uniques": ["Can only be built to improve a resource"]
 	},
