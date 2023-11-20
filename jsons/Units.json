@@ -5,7 +5,7 @@
 		"unitType": "Entity",
 		"strength": 66,
 		"movement": 3,
-		"uniques": ["Can only attack [{non-[City]}] units"],
+		"uniques": ["Can only attack [non-[City]] units"],
 	},
 	// General
         {
