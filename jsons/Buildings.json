@@ -57,51 +57,6 @@
 		"requiredTech": ["Backroom-Biology"],
 	},
 	{
-		"name": "Sterilization Facility",
-		"uniques": ["[+1 Food] from [Agriculture Facility] tiles [in this city]"],
-		"requiredTech": ["Backroom-Biology"],
-	},
-	{
-		"name": "Market",
-		"requiredTech": "Colonial Planning",
-		"uniques": ["[+10]% [Gold]","[+1 Gold] from [Residential] tiles [in this city]","[+1 Gold] from [City] tiles [in this city]"],
-	},
-	{
-		"name": "First Aid Station",
-		"uniuques": ["[25]% Food is carried over after population increases [in this city]"],
-		"maintenance": 1,
-		"requiredTech": "Seed of Anxiety"
-	},
-	{
-		"name": "Commercial District",
-		"requiredBuilding": "Market",
-		"gold": 8,
-		"isNationalWonder": true,
-		"maintenance": 1,
-		"requiredTech": "Colonial Planning"
-	},
-	{
-		"name": "Public Education",
-		"requiredBuilding": "Civil Service",
-		"science": 3,
-		"maintenance": 3,
-		"uniques": ["[+1 Science] per [2] population [in this city]"],
-		"requiredTech": "Colonial Planning"
-	},
-	{
-		"name": "Military District",
-		"uniques": ["New [Infantry] units start with [15] Experience [in this city]"],
-		"maintenance": 3,
-		"requiredTech": "Colonial Planning"
-	},
-	{
-		"name": "Hospital",
-		"requiredBuilding": "First Aid Station",
-		"food": 5,
-		"maintenance": 2,
-		"requiredTech": "Colonial Planning",
-	},
-	{
 		"name": "Safety Network",
 		"cityStrength": 10,
 		"food": 2,
