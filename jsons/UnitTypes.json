@@ -12,7 +12,7 @@
         },
         {
                 "name": "Scout",
-                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>",
+                "uniques": ["[-1] Sight","May travel on Water tiles without embarking <hidden from users>",
                 "[+1] Sight <in [Motion Sensor] tiles> <hidden from users>"],
                 "movementType": "Land"
         },
