@@ -1,12 +1,12 @@
 [
         {
                 "name": "Entity",
-                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>"],
+                "uniques": ["[-1] Sight","May travel on Water tiles without embarking <hidden from users>"],
                 "movementType": "Land"
         },
         {
                 "name": "Civilian",
-                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>",
+                "uniques": ["[-1] Sight","May travel on Water tiles without embarking <hidden from users>",
                 "[+1] Sight <in [Motion Sensor] tiles> <hidden from users>"],
                 "movementType": "Land"
         },
@@ -18,13 +18,13 @@
         },
         {
                 "name": "Scientist",
-                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>",
+                "uniques": ["[-1] Sight","May travel on Water tiles without embarking <hidden from users>",
                 "[+1] Sight <in [Motion Sensor] tiles> <hidden from users>"],
                 "movementType": "Land"
         }
         {
                 "name": "Infantry",
-                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>",
+                "uniques": ["[-1] Sight","May travel on Water tiles without embarking <hidden from users>",
                 "[+1] Sight <in [Motion Sensor] tiles> <hidden from users>"],
                 "movementType": "Land"
         },
@@ -34,7 +34,7 @@
         },
         {
                 "name": "Armored",
-                "uniques": ["[-2] Sight","May travel on Water tiles without embarking <hidden from users>",
+                "uniques": ["[-1] Sight","May travel on Water tiles without embarking <hidden from users>",
                 "[+1] Sight <in [Motion Sensor] tiles> <hidden from users>"],
                 "movementType": "Land"
         }
