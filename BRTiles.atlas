@@ -38,3 +38,115 @@ TileSets/FantasyHex/Tiles/GrasslandForest
   orig: 32, 38
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Plains+Hill
+  rotate: false
+  xy: 496, 1248
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains
+  rotate: false
+  xy: 496, 1198
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City
+  rotate: false
+  xy: 546, 1248
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center
+  rotate: false
+  xy: 596, 1298
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Investment era
+  rotate: false
+  xy: 546, 1298
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Residential
+  rotate: false
+  xy: 646, 1298
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Forest+Almond Water+Pump
+  rotate: false
+  xy: 696, 1298
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Forest+Almond Water
+  rotate: false
+  xy: 696, 1248
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Almond Water+Pump
+  rotate: false
+  xy: 746, 1248
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Almond Water
+  rotate: false
+  xy: 746, 1198
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plastic Waste Piles
+  rotate: false
+  xy: 696, 1198
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Agriculture Facility
+  rotate: false
+  xy: 646, 1148
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Marsh
+  rotate: false
+  xy: 596, 1148
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Marsh+Research Settle
+  rotate: false
+  xy: 546, 1148
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pit Bridge
+  rotate: false
+  xy: 546, 1348
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Waste Pit
+  rotate: false
+  xy: 546, 1298
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
