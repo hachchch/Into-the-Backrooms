@@ -166,7 +166,7 @@ TileSets/FantasyHex/Units/Async Security
   index: -1
 TileSets/FantasyHex/Units/SAC Infantry
   rotate: false
-  xy: 876, 811
+  xy: 876, 761
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -180,7 +180,7 @@ TileSets/FantasyHex/Units/SAC Machinegun
   index: -1
 TileSets/FantasyHex/Units/Async Magnetosphere Blaster
   rotate: false
-  xy: 776, 761
+  xy: 776, 811
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
