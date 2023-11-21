@@ -25,7 +25,7 @@
 		"requiredTech": "Securing Telecommunications",
 	},
 	{
-		"name": "Reseach Transport",
+		"name": "Goods Transport",
 		"cost": 40,
 		"science": 1,
 		"production": 1,
