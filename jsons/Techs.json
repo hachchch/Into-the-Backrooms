@@ -135,6 +135,11 @@
 				"prerequisites": ["Observer Network","Government Funding"]
 			},
 			{
+				"name": "Colonial Planning",
+				"row": 7,
+				"prerequisites": ["Urban Planning","Storage Planning","Industrial Planning"]
+			},
+			{
 				"name": "Sailing Venice",
 				"row": 1,
 				"prerequisites": ["Observer Network","Urban Planning"]
@@ -166,7 +171,7 @@
 			{
 				"name": "Mega Threshold",
 				"row": 7,
-				"prerequisites": ["Urban Planning","Storage Planning","Industrial Planning"]
+				"prerequisites": ["Colonial Planning","Backroom-Biology","Anti-Bacteria Armaments"]
 			},
 			{
 				"name": "Backroom-Navigation",
