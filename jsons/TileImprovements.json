@@ -82,7 +82,7 @@
 		"gold": 1,
 	},
 	{
-		"name": "Residencial",
+		"name": "Residential",
 		"turnsToBuild": 7,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Urban Planning",
