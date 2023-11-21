@@ -23,9 +23,9 @@
 	{
 		"name": "Research Settle",
 		"turnsToBuild": 5,
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Marsh"],
 		"science": 1,
-		"uniques": ["[+1 Science] <after discovering [Research Facility]>"]
+		"uniques": ["[+1 Science] <after discovering [Research Facility]>","[+1 Science] <after discovering [Backroom-Biology]>"]
 	},
 	{
 		"name": "Motion Sensor",
