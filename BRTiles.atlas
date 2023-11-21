@@ -145,7 +145,7 @@ TileSets/FantasyHex/Tiles/Pit Bridge
   index: -1
 TileSets/FantasyHex/Tiles/Waste Pit
   rotate: false
-  xy: 546, 1298
+  xy: 546, 1398
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
