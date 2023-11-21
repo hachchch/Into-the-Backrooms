@@ -11,6 +11,12 @@
 		"uniques": ["Indicates the capital city"]
         },
 	{
+		"name": "Trash Pitfall",
+		"happiness": 1,
+		"uniques": ["Must be next to [Jungle]"],
+		"requiredTech": "Backroom-Geometry",
+	},
+	{
 		"name": "Observation Building",
 		"cityStrength": 5,
 		"cityHealth": 50,
