@@ -1,6 +1,6 @@
 [
         {
-                "name": "Armond Water",
+                "name": "Almond Water",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
