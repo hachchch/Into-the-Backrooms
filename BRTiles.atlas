@@ -178,7 +178,7 @@ TileSets/FantasyHex/Units/SAC Machinegun
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Async Magnetosphere Blaster
+TileSets/FantasyHex/Units/Async Magnetowave Blaster
   rotate: false
   xy: 776, 811
   size: 32, 28
