@@ -68,9 +68,10 @@
 		"cost": 60,
 		"requiredTech": "Complex Electromagnetics",
 	},
+	{
 		"name": "Sterilization Facility",
 		"uniques": ["[+1 Food] from [Agriculture Facility] tiles [in this city]"],
-		"requiredTech": ["Backroom-Biology"],
+		"requiredTech": "Backroom-Biology"
 	},
 	{
 		"name": "Market",
