@@ -152,35 +152,35 @@ TileSets/FantasyHex/Tiles/Waste Pit
   index: -1
 TileSets/FantasyHex/Units/Async Explorer
   rotate: false
-  xy: 876, 811
+  xy: 876, 814
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Async Security
   rotate: false
-  xy: 826, 811
+  xy: 826, 814
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/SAC Infantry
   rotate: false
-  xy: 876, 761
+  xy: 876, 764
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/SAC Machinegun
   rotate: false
-  xy: 826, 761
+  xy: 826, 764
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Async Magnetowave Blaster
   rotate: false
-  xy: 776, 811
+  xy: 776, 814
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
