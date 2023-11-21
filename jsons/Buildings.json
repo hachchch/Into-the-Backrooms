@@ -26,6 +26,7 @@
 	},
 	{
 		"name": "Reseach Transport",
+		"cost": 40,
 		"science": 1,
 		"production": 1,
 		"food": 1,
