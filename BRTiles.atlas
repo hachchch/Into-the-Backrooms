@@ -150,7 +150,6 @@ TileSets/FantasyHex/Tiles/Waste Pit
   orig: 32, 38
   offset: 0,0
   index: -1
-
 TileSets/FantasyHex/Units/Async Explorer
   rotate: false
   xy: 876, 811
