@@ -25,6 +25,24 @@
 		"requiredTech": "Securing Telecommunications",
 	},
 	{
+		"name": "Reseach Transport",
+		"science": 1,
+		"production": 1,
+		"food": 1,
+	},
+	{
+		"name": "Commercially Transport",
+		"gold": 5,
+		"production": 1,
+		"food": 4,
+		"requiredTech": "Urban Planning"
+	},
+	{
+		"name": "Civil Service",
+		"happiness": 3,
+		"requiredTech": "Urban Planning"
+	},
+	{
 		"name": "Armond Water Product",
 		"culture": 3,
 		"requiredNearbyImprovedResources": ["Armond Water"],
@@ -36,7 +54,7 @@
 		"isNationalWonder": true,
 		"science": 3,
 		"uniques": ["[+20]% Strength <vs [Entity] units> <after discovering [Anti-Bacteria Armaments]>"],
-		"requiredTech": ["Backroom-Biology"],
+		"requiredTech": "Backroom-Biology",
 	},
 	{
 		"name": "Safety Network",
