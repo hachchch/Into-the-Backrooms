@@ -129,7 +129,7 @@ TileSets/FantasyHex/Tiles/Marsh
   orig: 32, 38
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Marsh+Research Settle
+TileSets/FantasyHex/Tiles/Grassland+Marsh+Research Settle
   rotate: false
   xy: 546, 1148
   size: 32, 38
