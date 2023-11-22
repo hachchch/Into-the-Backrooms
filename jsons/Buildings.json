@@ -11,6 +11,11 @@
 		"uniques": ["Indicates the capital city"]
         },
 	{
+		"name": "Monument of Peoples",
+		"cost": 500,
+		"uniques": ["Only available <when above [999] [Migration Project]>"]
+	},
+	{
 		"name": "Trash Pitfall",
 		"happiness": 1,
 		"uniques": ["Must be next to [Jungle]"],
