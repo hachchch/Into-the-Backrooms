@@ -19,6 +19,7 @@
 		"gold": 3,
 		"culture": 1,
 		"techRequired": "Urban Planning",
+		"uniques": ["Provides [2] [Migration Project]"]
 	},
 	{
 		"name": "Research Settle",
@@ -40,6 +41,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Industrial Planning",
 		"production": 1,
+		"uniques": ["Provides [1] [Migration Project]"]
 	},
 	{
 		"name": "Pool Resort",
@@ -80,7 +82,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Storage Planning",
 		"gold": 3,
-		"uniques": ["Provides [1] [Oil]"],
+		"uniques": ["Provides [1] [Migration Project]"],
 	},
 	{
 		"name": "Residential",
@@ -88,6 +90,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Urban Planning",
 		"culture": 1,
+		"uniques": ["Provides [2] [Migration Project]"]
 	},
 	{
 		"name": "Pump",
