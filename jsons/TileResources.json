@@ -10,7 +10,7 @@
 					"Generated on every [22] tiles <in [Featureless] [Plains] tiles>"]
         },
 	{
-		"name": "Oil",
+		"name": "Supply",
 		"resourceType": "Strategic",
 		"production": 1,
 	},
