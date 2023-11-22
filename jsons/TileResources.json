@@ -8,5 +8,10 @@
 		"improvementStats": {"food": 1},
 		"uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>",
 					"Generated on every [22] tiles <in [Featureless] [Plains] tiles>"]
-        }
+        },
+	{
+		"name": "Oil",
+		"resourceType": "Strategic",
+		"production": 1,
+	},
 ]
