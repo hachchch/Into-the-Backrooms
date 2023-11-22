@@ -79,7 +79,8 @@
 		"turnsToBuild": 7,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"techRequired": "Storage Planning",
-		"gold": 1,
+		"gold": 3,
+		"uniques": ["Provides [1] [Oil]"],
 	},
 	{
 		"name": "Residential",
