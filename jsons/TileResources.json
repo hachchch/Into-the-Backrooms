@@ -10,8 +10,9 @@
 					"Generated on every [22] tiles <in [Featureless] [Plains] tiles>"]
         },
 	{
-		"name": "Supply",
+		"name": "Migration Project",
 		"resourceType": "Strategic",
 		"production": 1,
+		"uniques": ["Stockpiled"]
 	},
 ]
